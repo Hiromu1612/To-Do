@@ -1,2 +1,2 @@
 # To-Doリスト
-　ProjectでTo-Doを管理します
+　ProjectsのMyTaskで、ToDo,In Progress,Doneを管理します
