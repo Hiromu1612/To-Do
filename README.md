@@ -1,2 +1,2 @@
 ## To-Doリスト
-　ProjectsのMyTaskで ToDo, In Progress, Done を管理します
+　ProjectsのMyTaskで進捗状況を ToDo, In Progress, Done として管理します。
